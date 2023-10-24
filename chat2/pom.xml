@@ -11,5 +11,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.chat2.Chat2</exec.mainClass>
     </properties>
-    <name>junior</name>
+    <name>projetoChatEufrasia</name>
 </project>
